@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #f7f4f4; }
+  body a {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase; }
+  body li {
+    list-style: none; }
+  body h1 {
+    padding: 20px;
+    font-size: 7rem; }
+  body .pages {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-weight: bold;
+    border: 1px solid black;
+    padding: 10px; }
+  body main {
+    margin-top: 50px;
+    border: 3px solid goldenrod;
+    margin-bottom: 100px; }
+  body section {
+    background: radial-gradient(#e2dddd, rgba(148, 147, 147, 0.863));
+    margin-bottom: 50px;
+    border: 1px solid blanchedalmond; }
+    body section .leader {
+      color: goldenrod; }
+    body section .leader2 {
+      color: whitesmoke; }
+  body .redes {
+    font-weight: bold; }
+  body footer {
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: small; }
