@@ -1,7 +1,9 @@
 body {
-  margin: 0;
+  /*CSS INDEX*/
+  margin: 35px;
   padding: 0;
-  background: #f7f4f4; }
+  background: #f7f4f4;
+  /*CSS CAMISAS*/ }
   body a {
     text-decoration: none;
     color: black;
@@ -37,3 +39,9 @@ body {
     margin-top: 50px;
     font-weight: bold;
     font-size: 12px; }
+  body .camisas-hombre {
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px; }
+  body .image1 {
+    width: 350px; }
