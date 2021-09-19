@@ -15,8 +15,8 @@ body {
     margin-top: 40px;
     margin-bottom: 40px;
     font-weight: bold;
-    border: 1px solid black;
-    padding: 10px; }
+    padding: 10px;
+    box-shadow: 0px 0px 10px 6px; }
   body main {
     margin-top: 50px;
     border: 3px solid goldenrod;
@@ -29,9 +29,11 @@ body {
       color: goldenrod; }
     body section .leader2 {
       color: whitesmoke; }
+  body .newsletter {
+    margin-left: 20px; }
   body .redes {
     font-weight: bold; }
   body footer {
     margin-top: 50px;
     font-weight: bold;
-    font-size: small; }
+    font-size: 12px; }
