@@ -1,0 +1,28 @@
+.li-hover {
+    transition-property: transform;
+    transition-duration: 1s;
+}
+
+.li-hover:hover {
+    transform: scale(1.2);
+}
+
+.image1 {
+    transition-property: transform;
+    transition-duration: 1s;
+}
+
+.image1:hover {
+    transform: scale(1.1);
+}
+
+.pages {
+    background: blanchedalmond;
+    color: black;
+    transition: background-color 1s;
+}
+
+.pages:hover {
+    background: whitesmoke;
+    color: rgb(245, 178, 9);
+}

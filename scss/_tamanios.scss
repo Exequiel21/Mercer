@@ -1,0 +1,13 @@
+@mixin imagen1 {
+    width: 350px;
+    height: auto;
+}
+
+
+.image1 {
+    @include imagen1(); 
+}
+
+.camisas-hombre {
+    font-size: 20px;
+}
