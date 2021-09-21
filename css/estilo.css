@@ -25,18 +25,18 @@ body {
   background: #f7f4f4; }
 
 a {
-  color: black; }
+  color: black goldenrod blanchedalmond; }
 
 main {
-  border: 3px solid goldenrod; }
+  border: 3px solid nth black goldenrod blanchedalmond, whitesmoke, 2; }
 
 section {
   background: radial-gradient(#e2dddd, rgba(148, 147, 147, 0.863));
-  border: 1px solid blanchedalmond; }
+  border: 1px solid nth black goldenrod blanchedalmond, whitesmoke, 3; }
   section .leader {
     color: goldenrod; }
   section .leader2 {
-    color: whitesmoke; }
+    color: nth black goldenrod blanchedalmond, whitesmoke, 4; }
 
 .image1 {
   width: 350px;
