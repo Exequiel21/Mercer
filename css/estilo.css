@@ -45,6 +45,38 @@ section {
 .camisas-hombre {
   font-size: 20px; }
 
+@media screen and (max-width: 768px) {
+  * {
+    margin: 0;
+    padding: 0; }
+  .header-mobile {
+    font-size: 5em;
+    margin-right: 10px; }
+  .new-mobile {
+    font-size: 2em; }
+  .leader2-mobile {
+    font-size: 10px;
+    color: whitesmoke; }
+  .vista_mobile {
+    font-size: 22px; }
+  .redes-mobile {
+    font-size: 11px; }
+  .footer-mobile {
+    font-size: 9px; }
+  /*mobile camisas*/
+  .camisas-hombre-mobile {
+    font-size: 24px; }
+  .p-mobile {
+    font-size: 14px; }
+  /*registro mobile*/
+  .registro-mobile {
+    margin-left: 5px; }
+  /*ayuda mobile*/
+  .ayuda-mobile {
+    display: flex;
+    flex-direction: column;
+    font-size: 15px; } }
+
 body {
   /*CSS INDEX*/
   margin: 35px;
